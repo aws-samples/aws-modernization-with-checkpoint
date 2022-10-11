@@ -1,11 +1,8 @@
-## My Project
 
-TODO: Fill this README out!
+## Check Point CloudGuard Network Security(CGNS) Workshop - Integration with AWS Gateway Load Balancer(GWLB)
 
-Be sure to:
+In this workshop you will learn about how Check Point CloudGuard Network Security integrates with AWS Gateway Load Balancer.
 
-* Change the title in this README
-* Edit your repository description on GitHub
 
 ## Security
 
